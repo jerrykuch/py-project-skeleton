@@ -7,6 +7,7 @@ To use:
   * Rename `tests/NAME_tests.py` to have your module name
   * Run tests for sanity check:  Run `nosetests` in topmost directory
   of project
+  * Delete the `.git` directory
   * Start coding!
 
 # Things To Elaborate On Further
